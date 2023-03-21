@@ -1,0 +1,2 @@
+# FormattingTextWithValueSubstitutionFromAttributes
+Форматирование текста с подстановкой значений из атрибутов

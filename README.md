@@ -1,4 +1,4 @@
-# Form Text With Value Substitution From Attributes
+# Text With Value Substitution From Attributes
 Формировать текста с подстановкой значений из атрибутов
 
 ИсточникСсылка - Ссылка на какой либо объект.
